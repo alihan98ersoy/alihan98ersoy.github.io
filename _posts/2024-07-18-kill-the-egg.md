@@ -2,6 +2,8 @@
 layout: post
 title:  "My Released Game"
 author: Alihan
+version: 1
+lastupdated: 2024-07-18T15:00:00Z
 categories: [ Personal Writings]
 tags: [ unity, mobile, game ]
 image: assets/images/killtheegg.jpg
